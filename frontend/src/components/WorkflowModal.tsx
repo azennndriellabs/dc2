@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Dialog } from '@headlessui/react';
 import { X, TrendingUp } from 'lucide-react';
-import { WorkflowSettings } from '../types';
+import type { WorkflowSettings } from '../types';
 import { countries } from '../data/countries';
 import { categories } from '../data/categories';
 
