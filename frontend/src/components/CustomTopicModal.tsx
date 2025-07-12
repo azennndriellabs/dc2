@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Dialog } from '@headlessui/react';
 import { X, Zap } from 'lucide-react';
-import { CustomTopic } from '../types';
+import type { CustomTopic } from '../types';
 
 interface CustomTopicModalProps {
   isOpen: boolean;
