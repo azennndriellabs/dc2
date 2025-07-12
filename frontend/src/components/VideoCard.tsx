@@ -1,6 +1,6 @@
 import React from 'react';
 import { Download, Copy, AlertCircle, CheckCircle, Clock, Loader2 } from 'lucide-react';
-import { VideoCard as VideoCardType } from '../types';
+import type { VideoCard as VideoCardType } from '../types';
 import toast from 'react-hot-toast';
 
 interface VideoCardProps {

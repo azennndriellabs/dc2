@@ -6,7 +6,7 @@ import { WorkflowModal } from './components/WorkflowModal';
 import { CustomTopicModal } from './components/CustomTopicModal';
 import { EmptyState } from './components/EmptyState';
 import { useVideoProcessor } from './hooks/useVideoProcessor';
-import { WorkflowSettings, CustomTopic } from './types';
+import type { WorkflowSettings, CustomTopic } from './types';
 
 function App() {
   const [showWorkflowModal, setShowWorkflowModal] = useState(false);

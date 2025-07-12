@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { Trend, GeneratedContent, WorkflowSettings, CustomTopic } from '../types';
+import type { Trend, GeneratedContent, WorkflowSettings, CustomTopic } from '../types';
 
 const API_BASE = '/api';
 

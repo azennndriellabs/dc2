@@ -1,5 +1,5 @@
 import { useState, useCallback, useRef } from 'react';
-import { VideoCard, Trend, CustomTopic } from '../types';
+import type { VideoCard, Trend, CustomTopic } from '../types';
 import { api, blobToBase64, generateId } from '../utils/api';
 import toast from 'react-hot-toast';
 
