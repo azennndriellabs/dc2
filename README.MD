@@ -1,4 +1,4 @@
-# 🧠 Viral Faceless Shorts Generator
+# 🧠 Faceless Shorts Generator
 
 An automated pipeline to generate **faceless YouTube Shorts** based on **Google Trends**. This system leverages AI-generated scripts, TTS voice, subtitle alignment, and FFmpeg video composition, all wrapped in a fully containerized architecture.
 
@@ -7,7 +7,7 @@ An automated pipeline to generate **faceless YouTube Shorts** based on **Google 
 Maintaining and improving this open-source project takes significant time and effort.  
 If you find it useful, please consider **supporting my work via GitHub Sponsors**:
 
-👉 [GitHub Sponsors](https://github.com/sponsors/Dark2C)
+👉 [GitHub Sponsors](https://github.com/sponsors/azennndriellabs)
 
 Your support helps keep this project alive and free for the community. Thank you! 🙌
 
